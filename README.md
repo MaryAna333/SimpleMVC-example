@@ -88,4 +88,4 @@ $User->explainAccess('/ваш/маршрут');
 
 ## Полезные материалы
 
-* Документация по bootstrap4: https://getbootstrap.com/docs/4.1/layout/overview/
+* Документация по Bootstrap4: https://getbootstrap.com/docs/4.1/layout/overview/
